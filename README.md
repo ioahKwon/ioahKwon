@@ -4,7 +4,7 @@ Good day! I'm Joon Kwon who is interested in Artificial Intelligence from South 
 
 If you want to contact me, please send me an email.
 
-
+💫🔥🏆🎯📌
 <!--
 **ioahKwon/ioahKwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
