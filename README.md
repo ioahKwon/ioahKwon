@@ -9,9 +9,9 @@ If you want to contact me, please send me an email.
 - Deep Neural Network
 
 ### 💫 Experiences
-1. Patent - Public Phone Booth for the Tourism
-2. Student Intern - _ITECH Industrial System_
-3. AI x Bookaton Competition Participant (2019) - _SKKU_
+1. Student Intern - _ITECH Industrial System_
+2. AI x Bookaton Competition Participant (2019) - _SKKU_
+3. Patent - Public Phone Booth for the Tourism
 
 <!--
 **ioahKwon/ioahKwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
