@@ -8,7 +8,7 @@ If you want to contact me, please send me an email.
 - Computer Vision
 - Deep Neural Network
 
-### 💫 Experiences
+### 💫 Experience
 1. Student Intern - _ITECH Industrial System_
 2. Student Research Intern - _SKKU IRIS Lab_
 3. AI x Bookaton Competition Participant (2019) - _SKKU_
