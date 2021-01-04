@@ -5,8 +5,8 @@ Good day! I'm Joon Kwon who is interested in Artificial Intelligence from South 
 If you want to contact me, please send me an email.
 
 ### 🎯 Interests
-- Computer Vision
-- Deep Neural Network
+- Artificial Neural Networks
+- High-speed Volumetric Imaging
 
 ### 💫 Experience
 1. Student Research Intern (Ongoing) - _SNU Kim's Lab_
