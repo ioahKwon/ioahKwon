@@ -6,7 +6,7 @@ If you want to contact me, please send me an email.
 
 ### 🎯 Interests
 - Artificial Neural Networks
-- Application of Deep Learning to Super-resolution Optical Microscopy
+- Application of Deep Learning to Super-Resolution Optical Microscopy
 - High-speed Volumetric Imaging
 
 ### 💫 Experience
