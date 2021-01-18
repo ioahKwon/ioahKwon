@@ -9,7 +9,7 @@ If you want to contact me, please send me an email.
 - High-speed Volumetric Imaging
 
 ### 💫 Experience
-1. Student Research Intern (Ongoing) - _SNU Kim's Lab_
+1. Student Research Intern (Ongoing) - _SNU KimLab (Bioimaging and Biophotonics Laboratory)_
 1. Student Intern - _ITECH Industrial System_
 2. Student Research Intern - _SKKU IRIS Lab_
 3. AI x Bookaton Competition Participant (2019) - _SKKU_
