@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm a graduate student at Seoul National University.
+
 If you want to contact me, please send me an email.
 
 ### 🎯 Interests
