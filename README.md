@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-Good day! I'm Joon Kwon who is interested in Artificial Intelligence from South Korea.
+Good day! I'm a graduate student at Seoul National University and interested in machine learning.
 
 If you want to contact me, please send me an email.
 
 ### 🎯 Interests
 - Artificial Neural Networks
+- Application of deep learning to super-resolution optical microscopy
 - High-speed Volumetric Imaging
 
 ### 💫 Experience
