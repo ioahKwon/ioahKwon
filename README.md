@@ -1,6 +1,6 @@
 ### Good day!
 
-I'm a graduate student at Seoul National University.
+I'm a graduate student at Seoul National University and I'm interested in machine learning.
 
 If you want to contact me, please send me an email.
 
