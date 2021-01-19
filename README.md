@@ -1,4 +1,4 @@
-### Hi there 👋
+### Good day!
 
 I'm a graduate student at Seoul National University.
 
