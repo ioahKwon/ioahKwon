@@ -7,7 +7,7 @@ If you want to contact me, please send me an email.
 ### 🎯 Interests
 - Artificial Neural Networks
 - Application of Deep Learning to Super-resolution Optical Microscopy
-- High-speed Volumetric Imaging
+- Computational Imaging (Denoising, Deconvolution)
 
 ### 💫 Experience
 1. Student Research Intern (Ongoing) - _SNU KimLab (Bioimaging and Biophotonics Laboratory)_
