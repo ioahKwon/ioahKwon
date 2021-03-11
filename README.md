@@ -10,10 +10,11 @@ If you want to contact me, please send me an email.
 - Computational Imaging (Denoising, Deconvolution)
 
 ### 💫 Experience
-1. Student Research Intern (Ongoing) - _SNU KimLab (Bioimaging and Biophotonics Laboratory)_
-1. Student Intern - _ITECH Industrial System_
-2. Student Research Intern - _SKKU IRIS Lab_
-3. AI x Bookaton Competition Participant (2019) - _SKKU_
+1. Graduate Student (Ongoing) - _SNU KimLab (Bioimaging and Biophotonics Laboratory)_
+2. Student Research Intern - _SNU KimLab (Bioimaging and Biophotonics Laboratory)_
+3. Student Intern - _ITECH Industrial System_
+4. Student Research Intern - _SKKU IRIS Lab_
+5. AI x Bookaton Competition Participant (2019) - _SKKU_
 
 <!--
 **ioahKwon/ioahKwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
