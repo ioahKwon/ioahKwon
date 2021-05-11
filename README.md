@@ -29,7 +29,7 @@ If you want to contact me, please send me an email.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pioneers@snu.ac.kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="pioneers@snu.ac.kr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/joon-woo-kwon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="pioneers@snu.ac.kr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
