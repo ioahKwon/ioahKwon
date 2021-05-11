@@ -1,4 +1,4 @@
-### Good day!
+## Good day!
 
 I'm a graduate student at Seoul National University and I'm interested in machine intelligence and computational imaging.
 
@@ -16,29 +16,39 @@ If you want to contact me, please send me an email.
 4. Student Research Intern - _SKKU IRIS Lab_
 5. AI x Bookaton Competition Participant (2019) - _SKKU_
 
+### ✨ Skills
+
+<div align="left">  
+ 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" height="25" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="25" />  
+
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25"/>  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="25" />  
+</div>
+
+</td><td valign="top" width="33%">
 
 
 
+## Github Stats  
+<table><tr><td valign="top" width="30%">
 
-<h1 align="center">Hi 👋, I'm Joonwoo Kwon</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=ioahKwon&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 50%" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ioahkwon&label=Profile%20views&color=0e75b6&style=flat" alt="ioahkwon" /> </p>
+</td><td valign="top" width="30%">
 
-- 🔭 I’m currently working on **Kimlab, SNU GSCST as graduate student.**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioahKwon&hide_border=true&layout=compact" align="left" style="width: 50%" />
 
-- 📝 I regularly write articles on [joon-favorite.tistory.com](joon-favorite.tistory.com)
+</td></tr></table>  
 
-- 📫 How to reach me **pioneers@snu.ac.kr**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/joon-woo-kwon-5a4198204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="joon-woo-kwon-5a4198204" height="30" width="40" /></a>
-</p>
-
-<a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="20" height="20"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ioahkwon&show_icons=true&locale=en" alt="ioahkwon" /></p>
 
 <!--
 **ioahKwon/ioahKwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
