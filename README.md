@@ -15,6 +15,8 @@ I'm a graduate student at Seoul National University and I'm interested in machin
 
 If you want to contact me, please send me an email.
 
+I sometimes write articles on [my tistory](https://joon-favorite.tistory.com). 
+
 ### 🎯 Interests
 - Artificial Neural Networks
 - Application of Deep Learning to Super-resolution Optical Microscopy
