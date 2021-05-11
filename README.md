@@ -16,6 +16,14 @@ If you want to contact me, please send me an email.
 4. Student Research Intern - _SKKU IRIS Lab_
 5. AI x Bookaton Competition Participant (2019) - _SKKU_
 
+<h1 align="center">Hi 👋, I'm Joonwoo Kwon</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ioahkwon&label=Profile%20views&color=0e75b6&style=flat" alt="ioahkwon" /> </p>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ioahkwon&show_icons=true&locale=en" alt="ioahkwon" /></p>
+
 <!--
 **ioahKwon/ioahKwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 💫🔥🏆🎯
