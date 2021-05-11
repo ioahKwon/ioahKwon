@@ -20,7 +20,7 @@ I sometimes write articles on [my Tistory](https://joon-favorite.tistory.com).
 ### 🎯 Interests
 - Artificial Neural Networks
 - Application of Deep Learning to Super-resolution Optical Microscopy
-- Computational Imaging (Denoising, Deconvolution)
+- Computational Imaging
 
 ### 💫 Experience
 1. Graduate Student (Ongoing) - _SNU KimLab (Bioimaging and Biophotonics Laboratory)_
