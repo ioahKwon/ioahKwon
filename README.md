@@ -15,7 +15,7 @@ I'm a graduate student at Seoul National University and I'm interested in machin
 
 If you want to contact me, please send me an email.
 
-I sometimes write articles on [My Tistory](https://joon-favorite.tistory.com). 
+I sometimes write articles on [my Tistory](https://joon-favorite.tistory.com). 
 
 ### 🎯 Interests
 - Artificial Neural Networks
