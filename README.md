@@ -31,6 +31,8 @@ I sometimes write articles on [my Tistory](https://joon-favorite.tistory.com).
 4. Student Research Intern - _SKKU IRIS Lab_
 5. AI x Bookaton Competition Participant (2019) - _SKKU_
 
+##
+
 ### ✨ Skills
 
 <div align="left">  
