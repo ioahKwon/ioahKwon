@@ -1,4 +1,5 @@
-## Good day!
+## <h1> Good day!</h1>
+
 <div align="right">
 <img src="https://komarev.com/ghpvc/?username=ioahKwon&&style=flat-square" align="right" />
 </div>  
@@ -11,7 +12,10 @@
 <a href="https://instagram.com/joonkwon_archive" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram style="margin-bottom: 5px;" />
 </a>  
-  
+
+###
+<p  align="center"><img src="https://github.com/sooftware/sooftware/blob/master/images/code.gif" alt="Coder GIF" width="400" height="320">
+
 ###
 I'm a graduate student at Seoul National University and I'm interested in machine intelligence and computational imaging.
 
