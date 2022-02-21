@@ -36,13 +36,9 @@ I sometimes write articles on [my Tistory](https://joon-favorite.tistory.com).
 5. AI x Bookaton Competition Participant (2019) - _SKKU_
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="middle">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ioahKwon&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioahKwon&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ioahKwon&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" />
 
 </td></tr></table>  
 
