@@ -24,9 +24,9 @@ If you want to contact me, please send me an email.
 I sometimes write articles on [my Tistory](https://joon-favorite.tistory.com). 
 
 ### 🎯 Interests
+- Super-resolution Image, Denoising, Optimization for Image Processing
 - Application of Deep Learning to Super-resolution Optical Microscopy
-- Super-resolution Image, Optimization for Image Processing
-- AI in Medical Image
+- AI application in Medical Image (Ophtalmology)
 
 ### 💫 Experience
 1. Graduate Student (Ongoing) - _SNU KimLab (Bioimaging and Biophotonics Laboratory)_
