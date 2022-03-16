@@ -24,7 +24,7 @@ If you want to contact me, please send me an email.
 I sometimes write articles on [my Tistory](https://joon-favorite.tistory.com). 
 
 ### 🎯 Interests
-- Super-resolution Image, Denoising, Optimization for Image Processing
+- Super-resolution Image, Denoising
 - Application of Deep Learning to Super-resolution Optical Microscopy
 - AI application in Medical Image (Ophtalmology)
 
