@@ -18,8 +18,9 @@
 
 ###
 I'm a passionate engineer and pioneer playing with deep learning. 
-I graudated SNU Department of Applied Bioengineering with Masters of Science. My primal interests lie in the generative model.
-
+I graduated from the Department of Applied Bioengineering at Seoul National University with a Master of Science.
+My primal interests lie in the generative models.
+ 
 If you want to contact me, please send me an email.
 
 I sometimes write articles on [my Tistory](https://joon-favorite.tistory.com). 
