@@ -17,23 +17,24 @@
 <p  align="center"><img src="https://github.com/sooftware/sooftware/blob/master/images/code.gif" alt="Coder GIF" width="400" height="320">
 
 ###
-I'm a graduate student at Seoul National University and I'm interested in machine intelligence and computational imaging.
+I'm a passionate engineer and pioneer playing with deep learning. I graudated SNU Department of Applied Bioengineering with Masters of Science. My primal interests lie in the generative model.
 
 If you want to contact me, please send me an email.
 
 I sometimes write articles on [my Tistory](https://joon-favorite.tistory.com). 
 
 ### 🎯 Interests
-- Super-Resolution Image, Denoising
-- Application of Deep Learning to Super-resolution Optical Microscopy
-- AI application in Medical Image (Ophtalmology)
+- Generative Models
+- Neural Style Transfer, Style Transfer
+- Image-to-Image Translation, Generative Adversarial Networks
+- AI applications in Neuroscience.
 
 ### 💫 Experience
-1. Graduate Student (Ongoing) - _SNU KimLab (Bioimaging and Biophotonics Laboratory)_
-2. Student Research Intern - _SNU KimLab (Bioimaging and Biophotonics Laboratory)_
-3. Student Intern - _ITECH Industrial System_
-4. Student Research Intern - _SKKU IRIS Lab_
-5. AI x Bookaton Competition Participant (2019) - _SKKU_
+1. Post-master Researcher (2023.02.~2023.06.) - _SNU Connectome Laboratory_
+2. Graduate Student (2021.03.~ 2023.01.)  - _SNU Bioimaging and Biophotonics Laboratory_
+3. Undergraduate Researcher (2021.01.~2021.02.)- _SNU Bioimaging and Biophotonics Laboratory_
+4. Research Intern (2019.12.~2020.03.) - _ITECH Industrial System_
+5. Undergraduate Researcher (2020.05.~2020.09.) - _SKKU Intelligent & Resource-efficient Image Processing & Systems design Lab (IRIS Lab)_
 
 ## Github Stats  
 <table><tr><td valign="middle">
