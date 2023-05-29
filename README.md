@@ -17,7 +17,8 @@
 <p  align="center"><img src="https://github.com/sooftware/sooftware/blob/master/images/code.gif" alt="Coder GIF" width="400" height="320">
 
 ###
-I'm a passionate engineer and pioneer playing with deep learning. I graudated SNU Department of Applied Bioengineering with Masters of Science. My primal interests lie in the generative model.
+I'm a passionate engineer and pioneer playing with deep learning. 
+I graudated SNU Department of Applied Bioengineering with Masters of Science. My primal interests lie in the generative model.
 
 If you want to contact me, please send me an email.
 
