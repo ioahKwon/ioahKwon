@@ -32,7 +32,7 @@ I sometimes write articles on [my Tistory](https://joon-favorite.tistory.com).
 - AI applications in Neuroscience.
 
 ### 💫 Experience
-1. Post-master Researcher (2023.02.~2023.06.) - _SNU Connectome Laboratory_
+1. Post-master Researcher (2023.02.~ Present) - _SNU Connectome Laboratory_
 2. Graduate Student (2021.03.~ 2023.01.)  - _SNU Bioimaging and Biophotonics Laboratory_
 3. Undergraduate Researcher (2021.01.~2021.02.)- _SNU Bioimaging and Biophotonics Laboratory_
 4. Research Intern (2019.12.~2020.03.) - _ITECH Industrial System_
