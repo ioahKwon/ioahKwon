@@ -23,8 +23,7 @@ My primal interests lie in the generative models.
  
 If you want to contact me, please send me an email.
 
-I sometimes write articles on [my Tistory](https://joon-favorite.tistory.com). 
-Google Scholar : https://scholar.google.com/citations?hl=ko&view_op=list_works&gmla=AH70aAVG_VQ4hKUzbSfdqhF_ZXQ-Yvv8BXj-0TY1VC0mDqVao0jxSpLHqSje2lWUo4g1GTuUAT2D3fMnoUNlKr2XAnSQNh7dNzZ53UiY8HDn07CENTGIyC2-uINc4us&user=pdnfn3YAAAAJ
+I sometimes write articles on [my Tistory](https://joon-favorite.tistory.com). My research profile is [Google Scholar]https://scholar.google.com/citations?hl=ko&view_op=list_works&gmla=AH70aAVG_VQ4hKUzbSfdqhF_ZXQ-Yvv8BXj-0TY1VC0mDqVao0jxSpLHqSje2lWUo4g1GTuUAT2D3fMnoUNlKr2XAnSQNh7dNzZ53UiY8HDn07CENTGIyC2-uINc4us&user=pdnfn3YAAAAJ.
 
 ### 🎯 Interests
 - Generative Models
