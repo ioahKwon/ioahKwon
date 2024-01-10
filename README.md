@@ -26,13 +26,12 @@ If you want to contact me, please send me an email.
 I sometimes write articles on [my Tistory](https://joon-favorite.tistory.com). My research profile (Google Scholar) is in [this link](https://scholar.google.com/citations?hl=ko&view_op=list_works&gmla=AH70aAVG_VQ4hKUzbSfdqhF_ZXQ-Yvv8BXj-0TY1VC0mDqVao0jxSpLHqSje2lWUo4g1GTuUAT2D3fMnoUNlKr2XAnSQNh7dNzZ53UiY8HDn07CENTGIyC2-uINc4us&user=pdnfn3YAAAAJ).
 
 ### 🎯 Interests
-- Generative Models
-- Neural Style Transfer, Style Transfer
-- Image-to-Image Translation, Generative Adversarial Networks
+- Generative Modeling.
+- Media Generation
 - AI applications in Neuroscience.
 
 ### 💫 Experience
-1. Post-master Researcher (2023.02.~ Present) - _SNU Connectome Laboratory_
+1. Research Associates (2023.02.~ Present) - _SNU Connectome Laboratory_
 2. Graduate Student (2021.03.~ 2023.01.)  - _SNU Bioimaging and Biophotonics Laboratory_
 3. Undergraduate Researcher (2021.01.~2021.02.)- _SNU Bioimaging and Biophotonics Laboratory_
 4. Research Intern (2019.12.~2020.03.) - _ITECH Industrial System_
