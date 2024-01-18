@@ -27,7 +27,7 @@ I sometimes write articles on [my Tistory](https://joon-favorite.tistory.com). M
 
 ### 🎯 Interests
 - Generative Modeling.
-- Media Generation
+- Computer Vision / Artificial Intelligence.
 - AI applications in Neuroscience.
 
 ### 💫 Experience
