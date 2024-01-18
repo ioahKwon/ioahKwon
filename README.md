@@ -16,8 +16,9 @@
 
 ###
 I'm a passionate engineer and pioneer playing with deep learning. 
-I graduated from the Department of Applied Bioengineering at Seoul National University with a Master of Science.
-My primal interests lie in the generative models.
+I graduated from the Seoul National University with a master of science in enegineering.
+My primal interests are generative modeling and computer vision.
+Recent studies are mainly on generative modeling using brain functional signals.
  
 If you want to contact me, please send me an email.
 Email : pioneers@snu.ac.kr // joonkwon96@gmail.com
