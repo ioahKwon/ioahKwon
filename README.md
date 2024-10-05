@@ -1,28 +1,14 @@
 ## <h1> Good day!</h1>
 
-<div align="right">
-<img src="https://komarev.com/ghpvc/?username=ioahKwon&&style=flat-square" align="right" />
-</div>  
-<a href="https://github.com/ioahKwon" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/joonwoo-kwon-5a4198204" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+I'm a passionate researcher playing with deep learning. 
 
-
-###
-<p  align="center"><img src="https://github.com/sooftware/sooftware/blob/master/images/code.gif" alt="Coder GIF" width="400" height="320">
-
-###
-I'm a passionate engineer and pioneer playing with deep learning. 
-I graduated from the Seoul National University with a master of science in enegineering.
-My primal interests are generative modeling and computer vision.
-Recent studies are mainly on generative modeling using brain functional signals.
+Recent studies are mainly about generative AI and neuroscience.
  
 If you want to contact me, please send me an email.
+
 Email : pioneers@snu.ac.kr // joonkwon96@gmail.com
 
+<!--
 I sometimes write articles on [my Tistory](https://joon-favorite.tistory.com). My research profile (Google Scholar) is in [this link](https://scholar.google.com/citations?hl=ko&view_op=list_works&gmla=AH70aAVG_VQ4hKUzbSfdqhF_ZXQ-Yvv8BXj-0TY1VC0mDqVao0jxSpLHqSje2lWUo4g1GTuUAT2D3fMnoUNlKr2XAnSQNh7dNzZ53UiY8HDn07CENTGIyC2-uINc4us&user=pdnfn3YAAAAJ).
 
 ### 🎯 Interests
@@ -45,8 +31,6 @@ I sometimes write articles on [my Tistory](https://joon-favorite.tistory.com). M
 </td></tr></table>  
 
 
-
-<!--
 **ioahKwon/ioahKwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 💫🔥🏆🎯
 - 🔭 I’m currently working on ...
