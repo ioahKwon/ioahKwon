@@ -1,9 +1,12 @@
 ## <h1> Good day!</h1>
 
-<img src="https://github.com/user-attachments/assets/844f9af9-fa5f-48a1-b0a1-f5e8146de6f7" align="center" width="50%" height="50%"/>
+<center><img src="https://github.com/user-attachments/assets/844f9af9-fa5f-48a1-b0a1-f5e8146de6f7" align="center" width="35%" height="35%"/></center>
 
+<br/>
+<br/> 
 I'm a passionate researcher playing with deep learning. 
 
+<br/> 
 Recent studies are mainly about generative AI and neuroscience.
  
 If you want to contact me, please send me an email.
