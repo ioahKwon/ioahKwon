@@ -2,6 +2,9 @@
 <center><img src="https://github.com/user-attachments/assets/844f9af9-fa5f-48a1-b0a1-f5e8146de6f7" align="center" width="35%" height="35%"/></center>
 -->
 ### Hello! I'm [Joon](https://joonwoo-kwon.info) 🔥 — I research physics-informed computer vision techniques.
+
+<p align="center"><img src = 'https://github.com/user-attachments/assets/9c84441d-aa73-4809-b01d-90d3db119e21' width="600" height = "400"/></p>
+
 <!--
 I sometimes write articles on [my Tistory](https://joon-favorite.tistory.com). My research profile (Google Scholar) is in [this link](https://scholar.google.com/citations?hl=ko&view_op=list_works&gmla=AH70aAVG_VQ4hKUzbSfdqhF_ZXQ-Yvv8BXj-0TY1VC0mDqVao0jxSpLHqSje2lWUo4g1GTuUAT2D3fMnoUNlKr2XAnSQNh7dNzZ53UiY8HDn07CENTGIyC2-uINc4us&user=pdnfn3YAAAAJ).
 
