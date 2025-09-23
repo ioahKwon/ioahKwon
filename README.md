@@ -3,7 +3,7 @@
 -->
 
 <h2 align="center">
-  Hello! I'm <a href="https://joonwoo-kwon.info">Joon</a> 🔥 — I explore physics-informed computer vision.  
+  Hello! I'm <a href="https://kwonjoon.info">Joon</a> 🔥 — I explore physics-informed computer vision.  
 </h2>
 
 <p align="center">
